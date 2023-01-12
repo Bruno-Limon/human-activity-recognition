@@ -22,3 +22,6 @@ This project has been envisioned as a comprenhensive overview of Data Mining and
 - Sequential pattern mining
 - Clustering
 - Explainability
+
+===================================================================================================
+Pisa, Italy, January 2023
